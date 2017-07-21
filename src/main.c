@@ -2,11 +2,11 @@
  *
  * \section intro_sec Einführung
  *
- * Mit Hilfe dieses Skripts, kann der Sensor DS1820 über den I2C Bus ausgelesen werden und der ausgelesene Wert über den CAN Bus verschickt werden.
+ * Mit Hilfe dieses Skripts, kann mit Hilfe des Boards STM Nucleo f072rb der Sensor DS1621 über den I2C Bus ausgelesen werden und der ausgelesene Wert über den CAN Bus verschickt werden.
  * Dieses Programm wurde erstellt von: Yannick Mayer, Simon Petersen, Ulrich Ludmann
  * \section install_sec Installation
  *
- * Die kompilierte datei finden Sie in diesem Verzeichnis, außerdem die main.c File mit dem kompletten Code und der Konfiguration.
+ * Die kompilierte datei finden Sie in diesem Verzeichnis, außerdem die main.c File mit dem Code.
  *
  */
 
