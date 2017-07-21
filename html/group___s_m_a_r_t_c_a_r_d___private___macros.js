@@ -1,0 +1,26 @@
+var group___s_m_a_r_t_c_a_r_d___private___macros =
+[
+    [ "IS_SMARTCARD_ADVFEATURE_DATAINV", "group___s_m_a_r_t_c_a_r_d___private___macros.html#gaeb50799eed0020c43efd54da9ee6b5f2", null ],
+    [ "IS_SMARTCARD_ADVFEATURE_DMAONRXERROR", "group___s_m_a_r_t_c_a_r_d___private___macros.html#ga68caa23cdb6592178ed44b60ca5e6493", null ],
+    [ "IS_SMARTCARD_ADVFEATURE_INIT", "group___s_m_a_r_t_c_a_r_d___private___macros.html#ga6ecfdd5c1ee1b04c994fc00e1e5e8e1f", null ],
+    [ "IS_SMARTCARD_ADVFEATURE_MSBFIRST", "group___s_m_a_r_t_c_a_r_d___private___macros.html#ga96b4e4e1136da35dd0c98a98767ede7c", null ],
+    [ "IS_SMARTCARD_ADVFEATURE_RXINV", "group___s_m_a_r_t_c_a_r_d___private___macros.html#gadce13e55560abfa87265b6cc6360a79a", null ],
+    [ "IS_SMARTCARD_ADVFEATURE_SWAP", "group___s_m_a_r_t_c_a_r_d___private___macros.html#gaafa60ea938020acb9b18923735759198", null ],
+    [ "IS_SMARTCARD_ADVFEATURE_TXINV", "group___s_m_a_r_t_c_a_r_d___private___macros.html#ga262b4258b744dad01c2452c9f785541a", null ],
+    [ "IS_SMARTCARD_AUTORETRY_COUNT", "group___s_m_a_r_t_c_a_r_d___private___macros.html#ga96eec21125d71b530e34803f404f1541", null ],
+    [ "IS_SMARTCARD_BAUDRATE", "group___s_m_a_r_t_c_a_r_d___private___macros.html#ga5bb07276b107ec9ad4afece205a8fe2a", null ],
+    [ "IS_SMARTCARD_BLOCKLENGTH", "group___s_m_a_r_t_c_a_r_d___private___macros.html#ga23ec81fa2d39464f2b0a45664cb82308", null ],
+    [ "IS_SMARTCARD_LASTBIT", "group___s_m_a_r_t_c_a_r_d___private___macros.html#gad5133b1e345f9601e8a2f05fcf8004c0", null ],
+    [ "IS_SMARTCARD_MODE", "group___s_m_a_r_t_c_a_r_d___private___macros.html#ga8e63d3a17d1388f08b5f98c24a872ff1", null ],
+    [ "IS_SMARTCARD_NACK", "group___s_m_a_r_t_c_a_r_d___private___macros.html#gac75f6fbce82524fabb8763595068ecdf", null ],
+    [ "IS_SMARTCARD_ONE_BIT_SAMPLE", "group___s_m_a_r_t_c_a_r_d___private___macros.html#ga101d1102ec58ebd00aef25f285898622", null ],
+    [ "IS_SMARTCARD_OVERRUN", "group___s_m_a_r_t_c_a_r_d___private___macros.html#ga62c2384d53181d9049ee70903a5bd597", null ],
+    [ "IS_SMARTCARD_PARITY", "group___s_m_a_r_t_c_a_r_d___private___macros.html#ga5c10d88b00d317fd6dec54a66ef87b37", null ],
+    [ "IS_SMARTCARD_PHASE", "group___s_m_a_r_t_c_a_r_d___private___macros.html#gac402d0ff344e9a8320e5e87f7da5ead5", null ],
+    [ "IS_SMARTCARD_POLARITY", "group___s_m_a_r_t_c_a_r_d___private___macros.html#gae6e80e38ba53dcae1ab065b8f5e3cf0b", null ],
+    [ "IS_SMARTCARD_REQUEST_PARAMETER", "group___s_m_a_r_t_c_a_r_d___private___macros.html#ga12cdbfdd69fa9fcb48175ed2196b27e0", null ],
+    [ "IS_SMARTCARD_STOPBITS", "group___s_m_a_r_t_c_a_r_d___private___macros.html#ga3295f95845b44fb5518b28685873098d", null ],
+    [ "IS_SMARTCARD_TIMEOUT", "group___s_m_a_r_t_c_a_r_d___private___macros.html#ga44dd8f160b80c1546c0195387091504b", null ],
+    [ "IS_SMARTCARD_TIMEOUT_VALUE", "group___s_m_a_r_t_c_a_r_d___private___macros.html#gaa813ac55690877657161d7f282820b03", null ],
+    [ "IS_SMARTCARD_WORD_LENGTH", "group___s_m_a_r_t_c_a_r_d___private___macros.html#ga7db1a0183bc5e4803fc2f72e636dbff5", null ]
+];
