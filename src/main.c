@@ -15,8 +15,8 @@
   * @file    main.c
   * @author  Petersen, Mayer, Ludmann
   * @version V0.5.8
-  * @date    15-Juli-2017
-  * @brief   Hier gehts rund
+  * @date    16-Januar-2018
+  * @brief   Hier ist unsere main.c Datei
   ******************************************************************************
 */
 
