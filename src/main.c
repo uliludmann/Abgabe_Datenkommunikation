@@ -6,7 +6,7 @@
  * Dieses Programm wurde erstellt von: Yannick Mayer, Simon Petersen, Ulrich Ludmann
  * \section install_sec Installation
  *
- * Die kompilierte datei finden Sie im Verzeichnis Binaries ABGABE_LN.elf, außerdem die main.c File mit dem Code.
+ * Die kompilierte datei finden Sie im Verzeichnis Debug ABGABE_LN.elf, außerdem die main.c File mit dem Code.
  *
  */
 
